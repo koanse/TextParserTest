@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\bin\Debug\XML.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\bin\Debug\XML.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\XML.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Test\XML\XML\obj\Debug\XML.pdb
